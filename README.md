@@ -1,7 +1,7 @@
 Resume belonging to Robert Testa
 ===
 
-You can download the PDF [here.](https://github.com/PeteJodo/resume/blob/master/resume.pdf?raw=true)
+You can download the PDF [here.](https://github.com/rktesta/resume/blob/master/resume.pdf)
 
 All files required to build from the LaTex file, resume.tex are here (helvetica.sty & res.cls).
 
